@@ -1,3 +1,19 @@
+/*edits*/
+.image-title{
+    position: absolute;
+    right: 3%;
+    bottom: 3%;
+    z-index: 100;
+    text-shadow: 2px 2px 4px black;
+}
+
+/*edit title and summary class adding shadow*/
+.summary{
+    text-shadow: 2px 2px 4px black;
+}
+.title{
+    text-shadow: 2px 2px 4px black;
+}
 /*------------------------------------------------------------------
 Project:	Cygni - Interactive Portfolio Showcase Template
 Version:	2.0
