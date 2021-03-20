@@ -1,5 +1,5 @@
 /*edits*/
-.image-title{
+.image-title {
     position: absolute;
     right: 3%;
     bottom: 3%;
@@ -8,12 +8,14 @@
 }
 
 /*edit title and summary class adding shadow*/
-.summary{
+.text-shadow {
     text-shadow: 2px 2px 4px black;
 }
-.title{
-    text-shadow: 2px 2px 4px black;
+
+.font-weight-900 {
+    font-weight: 900;
 }
+
 /*------------------------------------------------------------------
 Project:	Cygni - Interactive Portfolio Showcase Template
 Version:	2.0
@@ -484,7 +486,6 @@ button:-moz-focusring,
 }
 
 
-
 label {
     width: 30%;
     float: left;
@@ -669,8 +670,6 @@ textarea {
     font: inherit;
     /* 2 */
 }
-
-
 
 
 /* Interactive
@@ -2231,7 +2230,6 @@ h5.cyg_widget-title {
 }
 
 
-
 /*------------------------------------------------------------------
 ## Navigation Classic
 -------------------------------------------------------------------*/
@@ -2262,7 +2260,6 @@ h5.cyg_widget-title {
     -ms-transform: none;
     transform: none;
 }
-
 
 
 .site-navigation.classic .menu > li {
@@ -2342,7 +2339,6 @@ h5.cyg_widget-title {
     -ms-transform: translateY(-100%);
     transform: translateY(-100%);
 }
-
 
 
 .site-navigation.classic .menu > li > a span::after {
@@ -3630,7 +3626,6 @@ h5.cyg_widget-title {
 }
 
 
-
 /*--------------------------------------------------
 ## List
 ---------------------------------------------------*/
@@ -4271,7 +4266,6 @@ h5.cyg_widget-title {
     -ms-transform: translateY(150%);
     transform: translateY(150%);
 }
-
 
 
 .horizontal-project-link {
@@ -5250,7 +5244,6 @@ h5.cyg_widget-title {
 }
 
 
-
 .big-slide-next:hover,
 .big-slide-prev:hover {
     color: #000
@@ -5440,7 +5433,6 @@ h5.cyg_widget-title {
 }
 
 
-
 .big-images img,
 .big-images video {
     display: block;
@@ -5466,8 +5458,6 @@ h5.cyg_widget-title {
 .dark-slide .big-image::before {
     display: block;
 }
-
-
 
 
 /*----- Delays -----*/
@@ -5731,7 +5721,6 @@ h5.cyg_widget-title {
     color: #ededed;
     opacity: .1
 }
-
 
 
 .all-projects .featured-image {
@@ -6371,7 +6360,6 @@ h5.cyg_widget-title {
 }
 
 
-
 .pe-post-featured {
     width: 100%;
     height: 100%;
@@ -6798,7 +6786,6 @@ h5.cyg_widget-title {
 }
 
 
-
 .project-header.light .project-title,
 .project-header.light .project-summary,
 .project-header.light .project-work,
@@ -6865,7 +6852,6 @@ h5.cyg_widget-title {
 }
 
 
-
 .next-project-image-wrapper {
     position: absolute;
     left: 0;
@@ -6925,7 +6911,6 @@ h5.cyg_widget-title {
 }
 
 
-
 /*--------------------------------------------------
 # Showcase Darks
 ---------------------------------------------------*/
@@ -6975,8 +6960,7 @@ h5.cyg_widget-title {
     overflow: hidden;
     -webkit-transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
     -o-transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
-    transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
-    ;
+    transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);;
     z-index: 2
 }
 
@@ -7178,7 +7162,6 @@ h5.cyg_widget-title {
 }
 
 
-
 .team-member-details span {
     display: block;
     -webkit-transform: translatey(100%);
@@ -7276,7 +7259,6 @@ h5.cyg_widget-title {
 }
 
 
-
 /*--------------------------------------------------
 ## Clients
 ---------------------------------------------------*/
@@ -7324,7 +7306,6 @@ h5.cyg_widget-title {
 /*--------------------------------------------------
 ## Grid System
 ---------------------------------------------------*/
-
 
 
 .wrapper-small {
@@ -8049,7 +8030,6 @@ section:after {
 }
 
 
-
 .skew-up {
     opacity: 0;
     -webkit-transform: skewY(5deg) translatey(50%);
@@ -8700,7 +8680,6 @@ section:after {
     }
 
 
-
     button,
     input,
     optgroup,
@@ -8741,7 +8720,6 @@ section:after {
     .layout-dark .footer-ov {
         background: #090909
     }
-
 
 
     .site-footer * {
@@ -9009,7 +8987,6 @@ section:after {
     }
 
 
-
     .lc-top {
 
         top: 5%;
@@ -9155,3 +9132,6 @@ section:after {
     }
 
 }
+
+
+
